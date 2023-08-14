@@ -1,12 +1,13 @@
 ---
-title: Musicgen
-emoji: 🏢
-colorFrom: purple
-colorTo: red
+title: AudioCraft Plus v2.0.0a (MusicGen + AudioGen)
+emoji: 🎶
+colorFrom: yellow
+colorTo: green
 sdk: gradio
-sdk_version: 3.40.1
+sdk_version: 3.39.0
 app_file: app.py
-pinned: false
+pinned: true
+license: mit
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
